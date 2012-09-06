@@ -1,0 +1,24 @@
+.myform{
+margin:0 auto;
+width:100%;
+padding:0;
+}
+#main_body{font-family:Verdana, Geneva, sans-serif;}
+#stylized{
+border-left:solid 0 #ccc;
+border-right:solid 0 #eee;
+border-top:solid 0 #ccc;
+border-bottom:solid 0 #eee;}
+
+.updated{border:1px solid #ccc; background:#FFC;font-size:1opx;height:25px;line-height:25px;width:94%;}
+.msg_updated{width:100%;height:25px;line-height:25pxborder:1px solid #999;color:#999;}
+.rr_thumb_up{font-size:10px;color:green;font-family:Verdana, Geneva, sans-serif;}
+.rr_thumb_down{font-size:10px;color:red;font-family:Verdana, Geneva, sans-serif;}
+input.report_input[type="text"] 
+{
+height:23px;
+line-height:23px;
+width:330px;
+color:#999;
+font-size:11px;
+}
